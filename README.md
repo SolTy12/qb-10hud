@@ -67,3 +67,5 @@ This resource provides a clean and immersive way to display all online officers,
 3. Ensure the resource in `server.cfg`:
    ```cfg
    ensure qb-10hud
+
+   FOR ANY HELP YOU CAN SNED ME A DISCORD MSG AT: sol__
