@@ -48,7 +48,8 @@ This resource provides a clean and immersive way to display all online officers,
 
 ## 📸 Preview
 
-![10-System HUD Preview](assets/preview.png)
+![10-System HUD Preview](20260120174149_1.jpg)
+![10-System HUD Preview](20260120174139_1.jpg)
 ---
 
 ## 📦 Dependencies
