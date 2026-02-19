@@ -96,8 +96,8 @@ Optional (Supported):
 
 1. Download or clone this repository  
 2. Place the folder inside your `resources` directory  
-3. Add to your `server.cfg`:
-4. run player_hud.sql
+3. run `player_hud.sql`
+4. Add to your `server.cfg`:
 ```
 ensure qb-10hud
 ```
